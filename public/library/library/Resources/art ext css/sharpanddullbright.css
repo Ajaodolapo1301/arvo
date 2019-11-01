@@ -1,0 +1,56 @@
+@import "ea1written.css";
+.dark-veil-1{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.1);
+}
+.dark-veil-2{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.2);
+}
+.dark-veil-3{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.3);
+}
+.dark-veil-4{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.4);
+}
+.dark-veil-5{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.5);
+}
+.dark-veil-6{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.6);
+}
+.dark-veil-7{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.7);
+}
+.dark-veil-8{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.8);
+}
+.dark-veil-9{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.9);
+}
+.dark-veil-10{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 1);
+}
+.redish-veil{
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 153, 194, 0.4);
+}

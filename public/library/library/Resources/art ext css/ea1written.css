@@ -1,0 +1,39 @@
+@import "sharpanddullbright.css";
+/*ea1 property css*/     .center{         text-align: center;     } .display{
+display: none;     }     .col-1{         width: 8.3%; position: relative;
+float: left;     }     .col-2{         width: 16.6%;         position:
+relative;         float: left;     }     .col-3{ width: 24.9%; position:
+relative;         float: left;     } .col-4{         width: 33.3%; position:
+relative;         float: left; }     .col-5{         width: 41.5%; position:
+relative;         float: left;     }     .col-6{         width: 50%; position:
+relative; float: left;     }     .col-7{         width: 58.3%; position:
+relative;         float: left;     }     .col-8{         width: 66.6%;
+position: relative;         float: left;     }     .col-9{ width: 74.7%;
+position: relative;         float: left;     } .col-10{ width: 83%; position:
+relative;         float: left;     } .col-11{         width: 91.3%; position:
+relative;         float: left;     }     .col-12{         width: 100%;
+position: relative; float: left;     }
+
+    .col-1x{         width: 10%;         position: relative;         float:
+left;     }     .col-1x-x{         width: 18%;         position: relative;
+float: left;     }     .col-2x{         width: 20%;         position:
+relative;         float: left;     }     .col-2x-x{         width: 24%;
+position: relative;         float: left;     }     .col-3x{         width:
+30%;         position: relative;         float: left;     }     .col-4x{
+width: 40%;         position: relative;         float: left;     }     .col-
+5x{         width: 50%;         position: relative;         float: left;     }
+.col-6x{         width: 60%;         position: relative;         float: left;
+}     .col-7x{         width: 70%;         position: relative;         float:
+left;     }     .col-8x{         width: 80%;         position: relative;
+float: left;     }     .col-9x{         width: 90%;         position:
+relative;         float: left;     }     .col-10x{         width: 100%;
+position: relative;         float: left;     }
+
+    .off-01{         margin-left: 4%;     }     .off-2x{         margin-left:
+20%;     }     .off-1{         margin-left: 8.3%;     }     .off-2{ width:
+16.6%;     }     .off-3{         width: 24.9%;     }     .off-4{ width: 33.3%;
+}     .down-1{         margin-top: 1%;     }     .down-2{ margin-top: 2%; }
+.down-3{         margin-top: 3%;     }     .down-4{ margin-top: 4%; } .down-5{
+margin-top: 5%;     }     .down-6{ margin-top: 6%; } .down-7{         margin-
+top: 7%;     }     .down-8{ margin-top: 8%; } .down-9{         margin-top: 9%;
+}
